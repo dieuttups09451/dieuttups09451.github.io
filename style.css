@@ -114,10 +114,13 @@ font-family: 'K2D', sans-serif;
                 float: right;
                 height:1750px;
                 }
+
 .container > footer {
-                border-top:6px double white;
-    line-height:50px;
-    background-color:orangered;
+    border-top: 5px double white;
+    line-height: 50px;
+    background-color: red;
     text-align: center;
-    clear:both;
-            }
+    font-variant: small-caps;
+    clear: both;
+    color: yellow;
+}
